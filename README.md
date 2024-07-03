@@ -1,4 +1,4 @@
-#GRADE BOOK APP
+## GRADE BOOK APP
 
 The application was built as a challenge project for a JavaScript Algorithms and Data Structures course with FreeCodeCamp. It features an app that can grade students based on their scores. Developed with HTML, CSS, and JavaScript, the app contains fundamental concepts from JavaScript like functions, variables, and conditionals.
 
